@@ -1,18 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mediha Merve Demiraslan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mediha Merve Demiraslan
 ===============================================================================================================================================
 
-Backend Developer and Industrial Engineer
--------------------
 
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
 </div>
 
-<div align="center" width="50">
-
-<img src="https://c.tenor.com/51yQQE_MVNMAAAAC/welcome-to-my-profile-profile.gif" alt="Welcome!" width="300"/>
-
-</div>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+BackEnd+Developer;And...;I'm+an+Industrial+Engineer" /></a>
+</p>
 
 <div align="center">
 --------------------------------------------------------------
