@@ -7,7 +7,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 <p>
+  <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+BackEnd+Developer;And...;I'm+an+Industrial+Engineer" /></a>
+    <div align="center">
 </p>
 
 <div align="center">
