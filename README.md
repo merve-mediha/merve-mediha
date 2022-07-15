@@ -5,6 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
 </div>
+------------------------------------------------------------
 
 <p>
   <div align="center">
@@ -14,6 +15,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div align="center">
 --------------------------------------------------------------
+
+<div align="center" width="50">
+
+<img src="https://data.whicdn.com/images/53140460/original.gif" alt="Welcome!" width="300"/>
+
+</div>
+
 
 ### Skills
 
